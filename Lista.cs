@@ -69,7 +69,6 @@ namespace ExamenR3_DGGR
             {
                 while (actual != null)
                 {
-                    Console.WriteLine(actual.GetCarro().Marca);
 
                     if (actual.GetSiguiente() != null)
                     {
@@ -97,7 +96,7 @@ namespace ExamenR3_DGGR
             {
                 Console.WriteLine("La lista esta vacia");
             }
-            if else
+            else
             {
                 while( actual != null )
                 {
